@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&random=false&width=435&lines=Meu+nome+%C3%A9+Rafhael;Sou+Desenvolvedor+Front-end+" alt="Typing SVG" /></a>
 <br/> 
 
-##Sobre Mim
+## Sobre Mim
   > 🔭 Atualmente Trabalho como Tecnico de Informática
 > 
   > 🌱 Atualmente estou aprendendo JavaScript e melhorando habilidades em HTML e CSS 
