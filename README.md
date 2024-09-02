@@ -6,7 +6,9 @@
 ## Sobre Mim
   > 🔭 Atualmente Trabalho como Tecnico de Informática
 > 
-  > 🌱 Atualmente estou aprendendo JavaScript e melhorando habilidades em HTML e CSS 
+  > 🌱 Atualmente estou aprendendo PHP e PostGreSQL para fazer integração com website da faculdade
+>
+  > 🔭 Estou Desenvolvendo minhas habilidades no Front-end com HTML, CSS e JavaScript, e Usando PHP e JAVA no Back-end
  
  <br>Skills - <br/>
   
