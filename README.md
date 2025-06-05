@@ -6,13 +6,13 @@
 ## Sobre Mim
   > 🔭 Atualmente Trabalho como Tecnico de Informática
 > 
-  > 🌱 Atualmente estou aprendendo PHP e PostGreSQL para fazer integração com website da faculdade
+  > 🌱 Atualmente estou melhorando minhas habilidades em React.Js
 >
-  > 🔭 Estou Desenvolvendo minhas habilidades no Front-end com HTML, CSS e JavaScript, e Usando PHP e JAVA no Back-end
+  > 🔭 Estou Desenvolvendo minhas habilidades no Back-end com C# ASP.NET e .NET
  
  <br>Skills - <br/>
   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/react-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="50" height="50"/><img src="/eng.png" width="50" height="50"/>
 
