@@ -1,6 +1,6 @@
 <img src="Sem nome (626 x 357 px) (1600 x 480 px).png"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&random=false&width=435&lines=Meu+nome+%C3%A9+Rafhael;Sou+Desenvolvedor+Front-end+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&random=false&width=435&lines=Meu+nome+%C3%A9+Rafhael;Sou+Desenvolvedor+Full+Stack" alt="Typing SVG" /></a>
 <br/> 
 
 ## Sobre Mim
