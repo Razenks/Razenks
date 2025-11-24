@@ -17,9 +17,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="50" height="50"/><img src="/eng.png" width="50" height="50"/>
 
 <br/>
-<div>
-<a href="https://github.com/razenks">
-<img loading="lazy" height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razenks&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=razenks&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
